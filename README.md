@@ -1,8 +1,7 @@
 # LittleLemon_CapstoneProject
  Final Project for the Coursera Backend for Meta
 
-/api/bookings/
-/api/registration/
+
 
 # littlelemon-restaurant-website
 
@@ -13,6 +12,8 @@ Restaurant website implemented in  ![Django](https://img.shields.io/badge/Django
 /restaurant/api-token-auth
 /restaurant/booking
 /restaurant/menu
+/api/bookings/
+/api/registration/
 ```
 ## RUN APP
 
